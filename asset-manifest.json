@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todoli/static/css/main.9a89255d.css",
-    "main.js": "/todoli/static/js/main.8b8210bd.js",
+    "main.js": "/todoli/static/js/main.86e69aa6.js",
     "static/js/787.f93ac883.chunk.js": "/todoli/static/js/787.f93ac883.chunk.js",
     "static/media/chore.jpg": "/todoli/static/media/chore.ac7b98cf17b5d9561ea6.jpg",
     "static/media/assignment.jpg": "/todoli/static/media/assignment.119e803c7d520753886f.jpg",
@@ -9,11 +9,11 @@
     "static/media/other.jpg": "/todoli/static/media/other.a0e5d3b7e9a7005577b0.jpg",
     "index.html": "/todoli/index.html",
     "main.9a89255d.css.map": "/todoli/static/css/main.9a89255d.css.map",
-    "main.8b8210bd.js.map": "/todoli/static/js/main.8b8210bd.js.map",
+    "main.86e69aa6.js.map": "/todoli/static/js/main.86e69aa6.js.map",
     "787.f93ac883.chunk.js.map": "/todoli/static/js/787.f93ac883.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a89255d.css",
-    "static/js/main.8b8210bd.js"
+    "static/js/main.86e69aa6.js"
   ]
 }
