@@ -1,9 +1,9 @@
 const dataMap = new Map();
 
-const groceryArr = ["bread","wheat","milk","ceral"];
-const assignmentArr = ["math","history","english"];
-const choreArr = ["wash dishes","mop the floor"];
-const otherArr = ["take jimmy back from school","play video game"];
+const groceryArr = [];
+const assignmentArr = [];
+const choreArr = [];
+const otherArr = [];
 
 dataMap.set("Grocery",groceryArr);
 dataMap.set("Chore",choreArr);
