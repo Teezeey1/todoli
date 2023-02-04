@@ -4,7 +4,7 @@ import { useNavigate} from 'react-router-dom'
 const ListContentHeader = () => {
     const navigate = useNavigate();
     const navigateBack = () =>{
-        navigate('/createlist');
+        navigate('/todoli');
     }
     return (
         <div>

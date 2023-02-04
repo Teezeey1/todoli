@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
     <Routes>
           <Route exact path='/' element={<CreateList />} />
-          <Route path='/createlist' element={<CreateList />} />
+          <Route path='/todoli' element={<CreateList />} />
 
           <Route path="/listcontent/Grocery" element={<ListContent category = "Grocery"/>} >
             <Route path='edit/:task' element = {<ListContentEdit/>}/>
