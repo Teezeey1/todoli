@@ -18,6 +18,12 @@ function ContentService (props){
         if(userInput===""){
             alert("Please do not add empty task");
         }
+        
+        else if(stuffInCategoryArray.indexOf(userInput)!== -1){
+            alert("Task already exist");
+            document.getElementById("myinput").value="";
+        }
+
         else{
             setStuff([...stuffInCategoryArray,userInput]);
             document.getElementById("myinput").value="";
