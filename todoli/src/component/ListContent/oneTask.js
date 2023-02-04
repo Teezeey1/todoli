@@ -14,8 +14,6 @@ function OneTask(props) {
         <tr>
             <td>
                 <span className="task-holder">
-                    <input type="checkbox"></input>
-                    &nbsp;
                     <p>
                         {props.stuff}
                     </p>
